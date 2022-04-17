@@ -1,0 +1,134 @@
+/********************************   Navbar Start  ********************************/
+.bgc-nav{
+    background-color: rgba(255, 255, 255, 0.979);
+}
+
+.right{
+    float: right;
+}
+
+.ustmenu{
+	position:fixed; top:0px; left:0px; right:0px; 
+    height:70px;
+    z-index: 1;
+}
+
+a:hover{
+    color: white;
+    background-color: #cf2e2e;
+    border-radius: 40px;
+}
+
+.nav-font{
+    font-size: 15px;
+    
+}
+
+.nav-margin{
+    margin-right: 60px;
+}
+
+.nav-list-margin{
+    margin-right: 25px;
+}
+
+.nav-list-font{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+/********************************   Navbar End  ********************************/
+
+/********************************Article1 Start********************************/
+.article-bg{
+    background-image: url("https://images.pexels.com/photos/8844387/pexels-photo-8844387.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    background-size: cover;
+    height: 500px;
+    width: 100%;
+}
+
+
+.img-font{
+    padding-top: 150px;
+    padding-left: 40px;
+}
+
+.img-font-2{
+    padding-top: 35px;
+    padding-left: 40px;
+    font-weight: bolder;
+}
+
+.button{
+    margin-top: 25px;
+    margin-left: 40px;
+    height: 60px;
+    width: 200px;
+    background-color: #cf2e2e; 
+}
+
+.m{
+    margin-left: 10px;
+}
+/********************************Article1 End********************************/
+
+/********************************Article3 yemek tarifi Start********************************/
+.article3-bg{
+    background-image: url("https://cdn.yemek.com/mnresize/940/940/uploads/2019/11/limonlu-pankek.jpg");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    background-size: cover;
+    height: 400px;
+    width: 100%;
+}
+/********************************article3 yemek tarifi End********************************/
+
+/********************************article4 Tanitim start********************************/
+.tanitim-kutu{
+    height: 150px;
+    width: 150px;
+    background-color: rgb(190, 132, 245);
+    position: absolute;
+}
+/********************************article4 Tanitim end********************************/
+
+/********************************article5 Online Diyet start********************************/
+.article5-bg{
+    background-image: url("https://images.pexels.com/photos/8845647/pexels-photo-8845647.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    background-size: cover;
+    height: 500px;
+    width: 100%;
+}
+
+.bg-saydam{
+    background-color: rgba(230, 230, 230, 0.493);
+    height: 500px;  
+}
+/********************************article5 Online Diyet End********************************/
+
+/********************************Article Online Diyet Sorular Start********************************/
+.kutu{
+    height: 800px;
+    width: 550px;
+    margin-left: 100px;  
+    background-color: #f8bbcb;
+    
+}
+
+.soru{
+    background-image: url("https://www.fulyagoldeli.com/wp-content/uploads/2022/02/sss_diyetisyen-min.jpg");
+    height: 400px;
+    width: 550px;
+}
+.soru-kutu{
+    height: 200px;
+    width: 440px;
+    background-color: white;
+    margin-left: 90px;
+}
+/********************************Article Online Diyet Sorular End********************************/
